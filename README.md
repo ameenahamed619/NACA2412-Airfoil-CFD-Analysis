@@ -48,7 +48,7 @@ The following quantities are investigated:
 
 ## 6. Repository Structure
 
-- `AoA_4deg/` – Simulation setup documentation and CFD figures for 4° angle of attack.
+-  figures/AoA_4deg/` – Simulation setup documentation and CFD figures for 4° angle of attack.
 - `figures/` – Project plots and visual results.
 - `NACA2412_complete_analysis.py` – Python-based post-processing and aerodynamic analysis.
 - `NACA2412_M0p6_AoA_results.csv` – Aerodynamic results dataset.
